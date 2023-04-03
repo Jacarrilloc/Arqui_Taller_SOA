@@ -1,0 +1,5 @@
+co\edu\javeriana\as\universityws\model\Students.class
+co\edu\javeriana\as\universityws\beans\StudentsFacadeLocal.class
+co\edu\javeriana\as\universityws\beans\AbstractFacade.class
+co\edu\javeriana\as\universityws\beans\StudentsFacade.class
+co\edu\javeriana\as\universityws\service\StudentsWebService.class
